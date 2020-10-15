@@ -1,10 +1,9 @@
 # VMCBM
 Video magnification under the presence of complex background motions
--------------------------------------------------------------------------------
 [Copyright holder(s)]
 
 For all videos, the Copyright holder is LONG ZHANG.
--------------------------------------------------------------------------------
+
 [Terms of Use]
 
 All copyrights to the Data are owned by the copyright holder(s) stated in the space for names of copyright holder(s). Users may reproduce and use the Data freely in accordance with the following terms and conditions.
